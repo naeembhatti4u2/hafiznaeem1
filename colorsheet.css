@@ -1,0 +1,41 @@
+body{
+	background-color: #282828;
+	
+
+}
+div{
+	padding: 0vh;
+	margin-left: 85vh;
+	margin-top:15vh;
+	width: 200px;
+	height: 300px;
+	text-align: center;
+	background-color: aquamarine;
+	border: solid yellow 2px;
+	border-radius: 10px;
+	font-family: sans-serif;
+	font-weight: normal;
+	text-decoration: none;
+}
+form{
+	font-family:monospace;
+
+}
+.name{
+	color:black;
+	text-decoration: underline;
+	font-family: times new roman;
+
+}
+#created{
+	margin-top: 8vh;
+}
+button{
+	background-color: #1bb1ef;
+	color:#010101;
+	border: 1px solid black;
+	border-radius: 2px;
+}
+select{
+	border: 1px solid black;
+}
